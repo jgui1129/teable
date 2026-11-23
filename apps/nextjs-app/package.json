@@ -128,7 +128,7 @@
     "express": "4.18.3",
     "filesize": "10.1.0",
     "fuse.js": "7.0.0",
-    "i18next": "23.10.0",
+    "i18next": "26.3.4",
     "is-port-reachable": "3.1.0",
     "knex": "3.1.0",
     "lodash": "4.17.21",
